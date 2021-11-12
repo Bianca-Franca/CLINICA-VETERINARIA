@@ -1,5 +1,6 @@
 # CLINICA-VETERINARIA
 PROJETO FINAL
+
 Justificativa: Com a alta demanda de agendamentos e clientes, faz-se necessário a criação de um um sistema para uma melhor organização de tarefas e otimização do tempo.
 
 Descrição: O sistema Clínica Veterinária v1.0 é uma solução para automatização de clínicas veterinárias. Nesse sentido, o sistema fornece funcionalidades para automatizar o processo de cadastro de clientes, agendamento de atendimentos, além da escolha do(s) serviço(s) (banho, tosa, consulta, etc).
