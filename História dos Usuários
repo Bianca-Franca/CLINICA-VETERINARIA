@@ -4,14 +4,11 @@
 
 | Código | História do usuário |
 | --------- | -------------------------------------------------- ---------- |
-| ** US001 ** | Como um usuário típico, eu gostaria de fazer o empréstimo de livros |
-| ** US002 ** | Como um usuário típico, eu gostaria de devolver um livro que tomei emprestado |
-| ** US003 ** | Como um usuário típico, eu gostaria de renovar o empréstimo de livros |
-| ** US004 ** | Como um usuário típico, eu gostaria de pesquisar por livros |
-| ** US005 ** | Como um usuário típico, gostaria de reservar livros que estão emprestados |
-| ** US006 ** | Como um usuário típico, gostaria de receber e-mails com novas aquisições |
-| ** US007 ** | Como um professor, eu gostaria de fazer o empréstimo de maior duração |
-| ** US008 ** | Como um professor, eu gostaria de sugerir a compra de livros |
-| ** US009 ** | Como um professor, eu gostaria de doar livros para uma biblioteca |
-| ** US010 ** | Como um professor, gostaria de devolver livros em outras bibliotecas |
+| ** US001 ** | Como um usuário típico, eu gostaria de fazer o cadastro do meu pet|
+| ** US002 ** | Como um usuário típico, eu gostaria de verificar se há vacinas pendentes do meu pet|
+| ** US003 ** | Como um usuário típico, eu gostaria  de realizar uma consulta para meu pet|
+| ** US004 ** | Como um usuário típico, eu gostaria de agendar um serviço, como tosa, castração etc. |
+| ** US005 ** | Como um atendente, eu gostaria de realizar um registro de pagamento|
+| ** US006 ** | Como um atendente, gostaria de a nota fiscal de uma venda|
+| ** US007 ** | Como um atendente, gostaria de enviar um lembrete de marcação de consulta para um cliente|
 | ... | ... |
