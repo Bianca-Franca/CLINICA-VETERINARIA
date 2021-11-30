@@ -1,0 +1,17 @@
+#  Nome do Projeto
+
+##  História dos Usuários
+
+| Código | História do usuário |
+| --------- | -------------------------------------------------- ---------- |
+| ** US001 ** | Como um usuário típico, eu gostaria de fazer o empréstimo de livros |
+| ** US002 ** | Como um usuário típico, eu gostaria de devolver um livro que tomei emprestado |
+| ** US003 ** | Como um usuário típico, eu gostaria de renovar o empréstimo de livros |
+| ** US004 ** | Como um usuário típico, eu gostaria de pesquisar por livros |
+| ** US005 ** | Como um usuário típico, gostaria de reservar livros que estão emprestados |
+| ** US006 ** | Como um usuário típico, gostaria de receber e-mails com novas aquisições |
+| ** US007 ** | Como um professor, eu gostaria de fazer o empréstimo de maior duração |
+| ** US008 ** | Como um professor, eu gostaria de sugerir a compra de livros |
+| ** US009 ** | Como um professor, eu gostaria de doar livros para uma biblioteca |
+| ** US010 ** | Como um professor, gostaria de devolver livros em outras bibliotecas |
+| ... | ... |
